@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-     <title>2TIN Devops - Calculator</title>
+     <title>2TIW Devops - Calculator</title>
      <link rel="stylesheet" href="assets/css/bootstrap.min.css">
      <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body>
-    <h1>2TIN DevOps - Calculator</h1><hr/>
+    <h1>2TIW DevOps - Calculator</h1><hr/>
         <?php
             // Use 'composer install' to get dependencies
             // Remember to run tests using PHPUnit: 'vendor/bin/phpunit tests'
